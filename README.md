@@ -56,6 +56,6 @@ Always open to meaningful collaborations and learning opportunities.
 ## How to Reach Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Prachi%20Jaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaideep-bose-89a93725a/)](https://www.linkedin.com/in/prachi-jaiswal-142b75278/)  
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/jaideepbose51)](https://github.com/PrachiJaiswal03)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/jaideepbose51)](https://github.com/jaiswalprachi19)  
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:prachijaiswal@example.com)](mailto:jaiswalprachi19@gmail.com)
 
