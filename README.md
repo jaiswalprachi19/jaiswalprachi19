@@ -49,7 +49,7 @@ Always open to meaningful collaborations and learning opportunities.
 - Relational Database Concepts
 - Computer Networking
 - Operating Systems
-- Scalable Software Systems
+- Scalable Software
 
 ---
 
